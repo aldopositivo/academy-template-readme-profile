@@ -1,6 +1,6 @@
 # academy-template-readme-profile
 
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Aldo Santos 👋
 
 ### Sobre mim
 
@@ -9,15 +9,15 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade | Escola | Curso]
+🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade de Sistemas de Informação - UNIFATECIE e Turismo - UFS 
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+👩‍💻 Atualmente eu trabalho como EStagiário no Instituto Banese
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre o turismo e a tecnologia que é empregada no planejamento turístico;
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒️ Eu gosto de no meu tempo livre descansar, ler, praticar atividades físicas;
 
-📚 Lendo: [Livro que está lendo atualmente]
+📚 Lendo: Introdução a programação com Python - Nilo Ney Coutinho, 2019.
 
 ### Eu já trabalhei com... 🔧
 
@@ -63,17 +63,15 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### GitHub Stats ⚡
 <div>
-<a href="https://github.com/lbguilherme">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbguilherme&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbguilherme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/aldopositivo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldopositivo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldopositivo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/_aldo.junior" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/aldo-santos-b33073216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
